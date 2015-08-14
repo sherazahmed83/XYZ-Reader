@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">XYZ Reader</string>
+    <string name="welcome_xyz_reader">Welcome to XYZ Reader!</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+
+    <string name="up">Up</string>
+
+    <!-- Empty Weather Database -->
+    <string name="empty_article_list">No Articles Available</string>
+    <string name="empty_article_list_no_network">No Articles available. The network is not available to fetch article data.</string>
+    <string name="empty_article_list_server_down">No Articles available. The server is not returning data.</string>
+    <string name="empty_article_list_server_error">No Articles available. The server is not returning valid data. Please check for an updated version of XYZ Reader.</string>
+
+    <!-- Key name for storing article status in SharedPreferences -->
+    <string name="pref_article_status_key" translatable="false">article-status</string>
+
+</resources>

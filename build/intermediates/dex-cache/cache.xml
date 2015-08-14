@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="9aa93835393824b436f366120c9ba8a0260ce75d">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-8a62133de215cbb6cde1f6ddb58fa3273d62e5cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sheraz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-30171b126cbc5dcd0eeb9fef35a6ffeb27555026.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sheraz\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\1.1.0\d51280dbb4e8539f6c3f369d516edc26f9d89d31\okhttp-1.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="d51280dbb4e8539f6c3f369d516edc26f9d89d31">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\okhttp-1.1.0-30171b126cbc5dcd0eeb9fef35a6ffeb27555026.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-42b182c17b5a9785874db8c3ef45e975803f3e6d.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v13\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="79a5b6d9fbab3b5fb4c6f86a1ed7a17722fd937b">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-993553a37c40f1c4cd1e63c8e918e5b9841bebe3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sheraz\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-32e0c3536303ef38ed27ba7e1fbe7c6a9de20220.jar" />
+    </item>
+    <item
+        jar="C:\Users\Sheraz\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\glide-3.6.0-378a3804b9f04b3a3978269fc02224faeb24ce6e.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\palette-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="060b30a619b8d3ba053e1d7dc08b3fdf0dd81530">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-161cd36788cc93e97ee9032c1a1a78ea5e1e3979.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-146b183ecca30892c4663d886342fd4f1d58d786.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-ee63ff1a02f44f52e674902b97cd365a45996bd1.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="c68094cbd011a3f9dccbfe16e77a2cf43622e277">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\volley-42b182c17b5a9785874db8c3ef45e975803f3e6d.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="5b37cf49773f7f17aca9830efd3053b0cac56728">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-a6264e39e6b6ad521c33a8193c0a875d28486adc.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-9084b2e0561f5cf45e87f014140795b9355f1cf4.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\cardview-v7\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="97f7e239e86ef994de894818fdd8a71d2e89d6aa">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-7f50b2d261ed746534a9356f811836293749dfe7.jar" />
+    </item>
+    <item
+        jar="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\exploded-aar\com.android.support\design\22.2.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="F:\Workspaces\AndroidStudio\Android\Nanodegree\Assignment_Projects\MakeYourAppMaterial\xyzreader\XYZReader\build\intermediates\pre-dexed\debug\classes-efb22fe31242a039ded8c342a88bb1dbd2765815.jar" />
+    </item>
+
+</items>
