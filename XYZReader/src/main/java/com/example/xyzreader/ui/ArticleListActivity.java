@@ -3,7 +3,6 @@ package com.example.xyzreader.ui;
 import android.app.LoaderManager;
 import android.content.BroadcastReceiver;
 import android.content.Context;
-import android.content.CursorLoader;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.Loader;
@@ -42,26 +41,6 @@ public class ArticleListActivity extends ActionBarActivity implements
     private RecyclerView mRecyclerView;
     private View mEmptyView;
     private Adapter mAdapter;
-
-    public static final String[] PROJECTION = {
-            ItemsContract.Items._ID,
-            ItemsContract.Items.TITLE,
-            ItemsContract.Items.PUBLISHED_DATE,
-            ItemsContract.Items.AUTHOR,
-            ItemsContract.Items.THUMB_URL,
-            ItemsContract.Items.PHOTO_URL,
-            ItemsContract.Items.ASPECT_RATIO,
-            ItemsContract.Items.BODY,
-    };
-
-    int _ID = 0;
-    int TITLE = 1;
-    int PUBLISHED_DATE = 2;
-    int AUTHOR = 3;
-    int THUMB_URL = 4;
-    int PHOTO_URL = 5;
-    int ASPECT_RATIO = 6;
-    int BODY = 7;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -119,11 +98,7 @@ public class ArticleListActivity extends ActionBarActivity implements
 
     @Override
     public Loader<Cursor> onCreateLoader(int i, Bundle bundle) {
-        return new CursorLoader(this,
-                ItemsContract.Items.buildDirUri(),
-                PROJECTION,
-                null, null, null);
-//        return ArticleLoader.newAllArticlesInstance(this);
+        return ArticleLoader.newAllArticlesInstance(this);
     }
 
     @Override
