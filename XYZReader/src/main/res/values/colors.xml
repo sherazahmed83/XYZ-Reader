@@ -29,4 +29,8 @@
     <color name="accent">#FF6E40</color> <!-- A200 -->
     <color name="primary_text">#212121</color>
     <color name="secondary_text">#727272</color>
+    <color name="article_detail_layout">#ffffff</color>
+    <color name="article_detail_layout_background">#333333</color>
+    <color name="article_detail_text_article_title">#ffffff</color>
+    <color name="article_detail_text_article_byline">#ffffff</color>
 </resources>

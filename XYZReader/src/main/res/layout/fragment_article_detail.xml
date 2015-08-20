@@ -38,15 +38,15 @@
                         android:layout_height="wrap_content"
                         android:layout_gravity="center_horizontal"
                         android:maxWidth="@dimen/detail_card_max_width"
-                        android:background="#fff"
-                        android:elevation="2dp"
+                        android:background="@color/article_detail_layout"
+                        android:elevation="@dimen/fragment_artical_detail_max_layout_elevation"
                         android:layout_marginTop="@dimen/detail_card_top_margin">
 
                         <LinearLayout
                             android:id="@+id/meta_bar"
                             android:layout_width="match_parent"
                             android:layout_height="wrap_content"
-                            android:background="#333"
+                            android:background="@color/article_detail_layout_background"
                             android:layout_gravity="bottom"
                             android:orientation="vertical"
                             android:paddingLeft="@dimen/detail_inner_horiz_margin"
@@ -62,7 +62,7 @@
                                 android:layout_height="wrap_content"
                                 android:paddingBottom="@dimen/detail_metabar_title_bottom_padding"
                                 android:fontFamily="sans-serif-condensed"
-                                android:textColor="#fff"
+                                android:textColor="@color/article_detail_text_article_title"
                                 android:textStyle="bold"
                                 android:textSize="@dimen/detail_title_text_size"
                                 android:lineSpacingMultiplier="0.9" />
@@ -72,7 +72,7 @@
                                 style="?android:attr/textAppearanceSmall"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
-                                android:textColor="#8fff"/>
+                                android:textColor="@color/article_detail_text_article_byline"/>
                         </LinearLayout>
 
                         <TextView
@@ -103,7 +103,8 @@
                 android:layout_height="56dp"
                 android:src="@drawable/ic_share"
                 android:elevation="@dimen/fab_elevation"
-                android:contentDescription="@string/action_share" />
+                android:contentDescription="@string/action_share"
+                app:borderWidth="0dp"/>
 
         </com.example.xyzreader.ui.DrawInsetsFrameLayout>
 
